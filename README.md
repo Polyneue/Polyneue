@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Ed
 
-<!--
-**Polyneue/Polyneue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://www.linkedin.com/in/edmendoza3/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.npmjs.com/~polyneue">
+    <img src="https://img.shields.io/badge/NPM-1DA1F2?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  </a>&nbsp;
+  <a href="http://codepen.io/Polyneue/">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>&nbsp;
+  <a href="https://dribbble.com/Polyneue">
+    <img src="https://img.shields.io/badge/Dribbble-%23ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>&nbsp;
+  <a href="https://www.behance.net/edmendoza3">
+    <img src="https://img.shields.io/badge/Behance-1DA1F2?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>&nbsp;
+</p>
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering Manager that specializes in Golang and JavaScript development for SaaS platforms. Builds with Golang, AWS, Terraform, and CI/CD pipelines.
