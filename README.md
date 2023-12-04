@@ -19,4 +19,4 @@
 </p>
 <br />
 
-Engineering Manager that specializes in Golang and JavaScript development for SaaS platforms. Builds with Golang/JavaScript, AWS, Terraform, and CI/CD pipelines.
+Director of Software Engineering that specializes in Golang and JavaScript development for SaaS platforms. Builds with Golang/JavaScript, AWS, Terraform, and CI/CD pipelines.
