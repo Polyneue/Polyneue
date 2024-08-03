@@ -20,3 +20,5 @@
 <br />
 
 Director of Software Engineering that specializes in Golang and JavaScript development for event driven platforms. Builds with Golang/JavaScript, Databricks, AWS, Terraform, and CI/CD pipelines.
+
+Interested in my professional contributions? Check out [rv-emendoza](https://github.com/rv-emendoza)
