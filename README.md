@@ -13,7 +13,7 @@
   <a href="https://dribbble.com/Polyneue">
     <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
   </a>&nbsp;
-  <a href="https://www.behance.net/edmendoza3">
+  <a href="https://www.behance.net/Polyneue">
     <img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>&nbsp;
 </p>
